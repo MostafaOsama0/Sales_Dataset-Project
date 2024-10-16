@@ -13,11 +13,13 @@ This project provides a comprehensive analysis of sales performance through the 
 
 ---
 ## **Screenshots**
-![Dataset](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Images/dataset_view.png)  
+![Dataset](https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Images/Screenshot%202024-10-16%20172001.png)  
 
-![Pivot Table](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Images/pivot_view.png)  
+![Pivot Table](https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Images/Screenshot%202024-10-16%20171805.png)
+![Pivot Table](https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Images/Screenshot%202024-10-16%20171828.png)
+![Pivot Table](https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Images/Screenshot%202024-10-16%20171922.png)
 
-![Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Images/dashboard_view.png)  
+![Dashboard](https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Images/Sales_DataSet%20Dashboard.png)  
 
 ---
 ## **📁 Dataset** 
