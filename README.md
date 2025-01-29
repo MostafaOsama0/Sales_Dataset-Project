@@ -62,5 +62,15 @@ This project provides a comprehensive analysis of sales performance through the 
 ## 🛠️ **Setup Instructions**  
 1. **Clone the Repository**:  
    ```bash
-   git clone
-     https://github.com/MostafaOsama0/Sales_Dataset-Project/tree/main
+   https://github.com/MostafaOsama0/Sales_Dataset-Project/blob/main/Sales_Dataset%20Project.xlsx
+2. **Use Excel**: Open the file using Excel
+
+---
+## 📞 Contact  
+For any questions or feedback, feel free to connect:
+- **GitHub**: [MostafaOsama0](https://github.com/MostafaOsama0)
+- **Linkedin**:[Mostafa Osama](https://www.linkedin.com/in/mustafaosama0)
+- **Email**: mostafaosama7213@gmail.com
+- **Phone**: +20 01271239591
+
+   
